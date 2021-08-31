@@ -1,7 +1,7 @@
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=eylles&show_icons=true&theme=radical)](https://github.com/eylles)
+[![github stats](https://github-readme-stats.vercel.app/api?username=eylles&show_icons=true&theme=github_dark)](https://github.com/eylles)
 
-[![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eylles&layout=compact&show_icons=true&theme=radical)](https://github.com/eylles)
+[![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eylles&layout=compact&show_icons=true&theme=github_dark)](https://github.com/eylles)
 
 <!--
 **eylles/eylles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
