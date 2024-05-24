@@ -1,6 +1,6 @@
 I'm ed, i usually do random stuff for myself, i speak spanish and english.
 
-slowly working on [pywal16](https://github.com/eylles/pywal16)
+slowly working on [pywal16](https://github.com/eylles/pywal16) and [ueberzug](https://github.com/ueber-devel/ueberzug)
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=eylles&show_icons=true&theme=github_dark)](https://github.com/eylles)
