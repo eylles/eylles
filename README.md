@@ -5,7 +5,7 @@ slowly working on [pywal16](https://github.com/eylles/pywal16) and [ueberzug](ht
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=eylles&show_icons=true&theme=github_dark)](https://github.com/eylles)
 
-[![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eylles&exclude_repo=breeze-hacked-cursor-theme,slickgreeter-pywal,plymouth-blood-fallen,plymouth-preview,Mate-Dynamic-Panel-Transparency,pywal16,NoHarm&layout=compact&theme=github_dark)](https://github.com/eylles)
+[![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eylles&exclude_repo=breeze-hacked-cursor-theme,slickgreeter-pywal,plymouth-blood-fallen,plymouth-preview,Mate-Dynamic-Panel-Transparency,NoHarm&layout=compact&theme=github_dark)](https://github.com/eylles)
 
 <!--
 **eylles/eylles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
