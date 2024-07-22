@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <noscript><a href="https://liberapay.com/eylles/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+
+<img src="https://img.shields.io/liberapay/patrons/eylles.svg?logo=liberapay">
+
