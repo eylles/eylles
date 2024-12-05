@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <noscript><a href="https://liberapay.com/eylles/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<a href="https://ko-fi.com/eylles"><img alt="Buy me a kofi" src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badge"></a>
 
-
-<img src="https://img.shields.io/liberapay/patrons/eylles.svg?logo=liberapay">
+<a href="https://liberapay.com/eylles/donate"><img src="https://img.shields.io/liberapay/patrons/eylles.svg?logo=liberapay"></a>
 
