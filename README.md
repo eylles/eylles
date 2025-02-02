@@ -7,6 +7,8 @@ slowly working on [pywal16](https://github.com/eylles/pywal16) and [ueberzug](ht
 
 [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eylles&exclude_repo=breeze-hacked-cursor-theme,slickgreeter-pywal,plymouth-blood-fallen,plymouth-preview,Mate-Dynamic-Panel-Transparency,NoHarm&layout=compact&theme=github_dark)](https://github.com/eylles)
 
+[![committers.top badge](https://user-badge.committers.top/guatemala/eylles.svg)](https://user-badge.committers.top/guatemala/eylles)
+
 <!--
 **eylles/eylles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,8 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
-  <summary>Support me</summary>
 
 ### Support
 <noscript><a href="https://liberapay.com/eylles/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/sponsors/eylles"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
 
 <a href="https://liberapay.com/eylles/donate"><img src="https://img.shields.io/liberapay/patrons/eylles.svg?logo=liberapay"></a>
-
-</details>
